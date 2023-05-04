@@ -4,7 +4,7 @@
 
 # Contents <br>
 1. [개요](#star-개요)  
-2. [팀 소개 및 주요 기능](#star-팀-소개-및-주요-기능)
+2. [Document](#star-document)
 
 ***
 
